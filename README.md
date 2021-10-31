@@ -1,15 +1,15 @@
 # basic_python
 This repository contains a basic python setup.
 
-## Setup Pycharm
+## Setup IDE
+- We use Pycharm community edition as an IDE.
 - Make sure to set the correct git username before committing to the repository.
 For this, add the following lines to projectfolder/.git/config  
     [user]  
     name = myuser  
     email = mymail@xxx.com
-
-
-- As a package manager, we use pipenv (pip install pipenv).
+- As package manager, we use pipenv. Install it via
+'pip install pipenv' on the terminal.
 
 ## Coding conventions
 ### Naming
