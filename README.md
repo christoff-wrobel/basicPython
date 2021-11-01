@@ -1,2 +1,2 @@
-# basic_python
+# basicPython
 This repository contains a basic python setup
