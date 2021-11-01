@@ -3,11 +3,11 @@ This repository contains a basic python setup.
 
 ## Setup the development environment
 * We use Pycharm community edition as an IDE (https://www.jetbrains.com/de-de/pycharm/download/#section=windows).
-*  Make sure to set the correct git username before committing to the repository:
+* Make sure to set the correct git username before committing to the repository:
 For this, add the following lines to projectfolder/.git/config  
-    [user]  
-    name = myuser  
-    email = mymail@xxx.com
+  [user]  
+        name = myuser  
+        email = mymail@xxx.com
 * As package manager, we use pipenv. Install it via
 'pip install pipenv' on the terminal.
 
